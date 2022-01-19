@@ -19,7 +19,7 @@ I am a professional developer experienced in many programming languages/framewor
   <img alt="C#" src="https://img.shields.io/badge/-C%23-blue?&style=for-the-badge&logo=csharp&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-PYTHON-green?&style=for-the-badge&logo=python&logoColor=blue">
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Ionic" src="https://img.shields.io/badge/-IONIC-yellowgreen?&style=for-the-badge&logo=ionic&logoColor=blue">
+  <img alt="Ionic" src="https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/-SPRING-green?&style=for-the-badge&logo=spring&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
