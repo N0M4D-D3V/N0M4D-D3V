@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> WELCOME <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://komarev.com/ghpvc/?username=YandrosChaos&color=blue)
-[![Website](https://img.shields.io/badge/-Snow.Crash-transparent?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
+[![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
 
 ## A little bit about me.
 I am a professional developer experienced in many programming languages/frameworks mostly prefer to work with something like TypeScript or Kotlin. On the framework side Angular, Ionic, Spring... I am also a QUANT so I have my own trad-bash-system in Python.
