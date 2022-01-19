@@ -37,7 +37,7 @@ I am a professional developer experienced in many programming languages/framewor
   
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-BASH-black?style=for-the-badge&logo=script&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/-BASH-black?style=for-the-badge&logo=shell&logoColor=white" />
   
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   
