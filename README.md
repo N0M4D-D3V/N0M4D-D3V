@@ -5,6 +5,9 @@
 ## A little bit about me.
 I am a professional developer experienced in many programming languages/frameworks mostly prefer to work with something like TypeScript or Kotlin. On the framework side Angular, Ionic, Spring... I am also a QUANT so I have my own trad-bash-system in Python.
 
+Current Job: AIRBUS MILITARY/Akkodis <> Angular/Ionic/Mobile Developer
+Previous Job: Kubide Tech Builder <> Angular/Ionic Developer 
+
 ### How to reach me?
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.develops@gmail.com)
 [![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11262771/snowcrash)
