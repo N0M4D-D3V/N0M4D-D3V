@@ -3,10 +3,15 @@
 [![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
 
 ## A little bit about me.
-I am a professional developer experienced in many programming languages/frameworks mostly prefer to work with something like TypeScript or Kotlin. On the framework side Angular, Ionic, Spring... I am also a QUANT so I have my own trad-bash-system in Python.
+Hi there! I'm a professional developer with a wealth of experience working with a variety of programming languages and frameworks. My preferred languages are TypeScript and Kotlin, while my go-to frameworks include Angular, Ionic, and Spring.
 
-- Current Job: AIRBUS MILITARY/Akkodis <> Angular/Ionic/Mobile Developer
-- Previous Job: Kubide Tech Builder <> Angular/Ionic Developer 
+I'm also a QUANT, which means I have a keen interest in quantitative finance and data analysis. In fact, I've even developed my own trad-bash-system in Python (private repo, sorry :v).
+
+Currently, I'm employed as an Angular/Ionic/Mobile Developer at AIRBUS MILITARY/Akkodis, where I help to build cutting-edge solutions. Prior to that, I worked as an Angular/Ionic Developer at Kubide Tech Builder, where I honed my skills in web and mobile development working for the startup sector.
+
+Check out my Github profile to see some of my recent projects and contributions. I'm always open to collaboration and learning from others, so feel free to reach out if you have any questions or ideas to share.
+
+Thanks for stopping by!
 
 ### How to reach me?
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.develops@gmail.com)
