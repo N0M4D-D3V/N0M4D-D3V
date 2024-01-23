@@ -22,24 +22,14 @@ Thanks for stopping by!
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/-KOTLIN-orange?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/-JAVA-black?&style=for-the-badge&logo=java&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-blue?&style=for-the-badge&logo=csharp&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-PYTHON-green?&style=for-the-badge&logo=python&logoColor=blue">
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="Ionic" src="https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/-SPRING-green?&style=for-the-badge&logo=spring&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=archlinux&logoColor=white" />
