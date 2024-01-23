@@ -1,6 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://komarev.com/ghpvc/?username=YandrosChaos&color=blue)
 [![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
+### Frontend/Hybrid Developer
 
 ## A little bit about me.
 I like to think of myself as a developer committed to continuous learning: I am always seeking new challenges and opportunities to improve my skills and knowledge.
