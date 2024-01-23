@@ -3,9 +3,7 @@
 [![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
 
 ## A little bit about me.
-Hi there! I'm a professional developer with a wealth of experience working with a variety of programming languages and frameworks. My preferred languages are TypeScript and Kotlin, while my go-to frameworks include Angular, Ionic, and Spring.
-
-I'm also a QUANT, which means I have a keen interest in quantitative finance and data analysis. In fact, I've even developed my own trad-bash-system in Python (private repo, sorry :v).
+Hi there! I'm a professional developer with a wealth of experience working with a variety of programming languages and frameworks.
 
 Currently, I'm employed as an Angular/Ionic/Mobile Developer at AIRBUS MILITARY/Akkodis, where I help to build cutting-edge solutions. Prior to that, I worked as an Angular/Ionic Developer at Kubide Tech Builder, where I honed my skills in web and mobile development working for the startup sector.
 
