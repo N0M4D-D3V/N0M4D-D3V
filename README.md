@@ -3,16 +3,17 @@
 [![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
 
 ## A little bit about me.
-Hi there! I'm a professional developer with a wealth of experience working with a variety of programming languages and frameworks.
+I like to think of myself as a developer committed to continuous learning: I am always seeking new challenges and opportunities to improve my skills and knowledge.
 
-Currently, I'm employed as an Angular/Ionic/Mobile Developer at AIRBUS MILITARY/Akkodis, where I help to build cutting-edge solutions. Prior to that, I worked as an Angular/Ionic Developer at Kubide Tech Builder, where I honed my skills in web and mobile development working for the startup sector.
+During my education in Madrid, I had the honor of being one of the top students in my class in Multiplatform Application Development. Since then, I have continued to expand my knowledge and skills in various areas of computer science, focusing particularly on hybrid apps. I stay up-to-date with online courses and other learning resources to ensure that I am always at the forefront of the latest technologies.
 
-Check out my Github profile to see some of my recent projects and contributions. I'm always open to collaboration and learning from others, so feel free to reach out if you have any questions or ideas to share.
+My passion for technology and my personality have allowed me to develop a strong understanding of frontend technology, as well as other areas of computer science. Additionally, my experience with sports, mathematics, and music has provided me with additional skills.
 
+I am always looking for new opportunities to grow and advance as a person and a professional. If you're interested, I invite you to connect with me!
 Thanks for stopping by!
 
 ### How to reach me?
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.develops@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor@gg-victor.dev)
 [![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11262771/snowcrash)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-develops/)
 
