@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Frontend/Hybrid Developer
 
-## A little bit about me.
+## About Me
 I like to think of myself as a developer committed to continuous learning: I am always seeking new challenges and opportunities to improve my skills and knowledge.
 
 During my education in Madrid, I had the honor of being one of the top students in my class in Multiplatform Application Development. Since then, I have continued to expand my knowledge and skills in various areas of computer science, focusing particularly on hybrid apps. I stay up-to-date with online courses and other learning resources to ensure that I am always at the forefront of the latest technologies.
@@ -13,12 +13,12 @@ My passion for technology and my personality have allowed me to develop a strong
 I am always looking for new opportunities to grow and advance as a person and a professional. If you're interested, I invite you to connect with me!
 Thanks for stopping by!
 
-### How to reach me?
+## Reach Me
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor@gg-victor.dev)
 [![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11262771/snowcrash)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-develops/)
 
-## Languages/Frameworks/Softwares
+## Tech Stack
   [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)]()
   [![Ionic](https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white)]()
   [![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
