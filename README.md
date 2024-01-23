@@ -18,21 +18,23 @@ Thanks for stopping by!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-develops/)
 
 ## Languages/Frameworks/Softwares
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/-PYTHON-green?&style=for-the-badge&logo=python&logoColor=blue">
-  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Ionic" src="https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)]()
+  [![Ionic](https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white)]()
+  [![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
+  [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
+  <br/>
 
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=archlinux&logoColor=white" />
-    <img alt="apple" src="https://img.shields.io/badge/-apple-silver?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-BASH-black?style=for-the-badge&logo=shell&logoColor=white" />
-  
-</p>
+  [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+  [![Python](https://img.shields.io/badge/-PYTHON-green?&style=for-the-badge&logo=python&logoColor=blue)]()
+  [![Bash](https://img.shields.io/badge/-BASH-black?style=for-the-badge&logo=shell&logoColor=white)]()
+  <br/>
+
+  [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
+  [![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)]()
+  [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)]()
+  <br/>
+
+  [![Linux](https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=archlinux&logoColor=white)]()
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+  [![iOS](https://img.shields.io/badge/-apple-silver?style=for-the-badge&logo=apple&logoColor=white)]()
+  <br/>
