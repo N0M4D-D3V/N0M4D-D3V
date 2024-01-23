@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://komarev.com/ghpvc/?username=YandrosChaos&color=blue)
-[![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://github.com/YandrosChaos)
+[![Website](https://img.shields.io/badge/-Snow.Crash-black?&logo=github&logoColor=white)](https://gg-victor.dev)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Frontend/Hybrid Developer
 
 ## A little bit about me.
