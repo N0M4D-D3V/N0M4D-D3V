@@ -2,6 +2,7 @@
 [![Website](https://img.shields.io/badge/-N0M4D-black?&logo=github&logoColor=white)](https://gg-victor.dev)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Frontend/Hybrid Developer
++3 years of experience. Frontend/Hybrid Developer. From Madrid, Spain. Specialized in crafting unique applications.
 
 ## Reach Me
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor@gg-victor.dev)
