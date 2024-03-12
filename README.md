@@ -1,6 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=YandrosChaos&color=blue)
 [![Website](https://img.shields.io/badge/-N0M4D-black?&logo=github&logoColor=white)](https://gg-victor.dev)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm N0M4D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=More+than+3+years+of+exp;Frontend/Hybrid+Developer;From+Madrid,+Spain;Crafting+unique+apps" alt="typing intro">
+</p>
+
 ### Frontend/Hybrid Developer
 +3 years of experience. Frontend/Hybrid Developer. From Madrid, Spain. Specialized in crafting unique applications.
 
