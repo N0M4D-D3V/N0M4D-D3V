@@ -6,13 +6,13 @@
 </p>
 
 ## Reach Me
-- 🔭 I’m currently working as a **developer at a Airbus DS**
+- 🔭 I’m currently working at 👉🏻 **Airbus DS**
 
-- 🌱 I’m currently learning **Personal Finances**
+- 🌱 I’m currently learning 👉🏻 **Personal Finances**
 
-- 💬 Ask me about **Hybrid app development**
+- 💬 Ask me about 👉🏻 **Hybrid app development**
 
-- 📫 How to reach me **victor@gg-victor.dev**
+- 📫 How to reach me 👉🏻 **victor@gg-victor.dev**
 
 - 🚀 My website 👉🏻 <a href="https://gg-victor.dev" target="blank">https://gg-victor.dev</a>
 
