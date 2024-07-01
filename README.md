@@ -2,15 +2,15 @@
 [![Website](https://img.shields.io/badge/-N0M4D-black?&logo=github&logoColor=white)](https://gg-victor.dev)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=More+than+3+years+of+exp;Frontend/Hybrid+Developer;From+Madrid,+Spain;Crafting+unique+apps" alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=4+years+of+exp;Frontend/Hybrid+Developer;From+Madrid,+Spain;Crafting+unique+apps" alt="typing intro">
 </p>
 
 ## Reach Me
 - 🔭 I’m currently working as a **developer at a Airbus DS**
 
-- 🌱 I’m currently learning **Product development**
+- 🌱 I’m currently learning **Personal Finances**
 
-- 💬 Ask me about **Angular, NodeJS.**
+- 💬 Ask me about **Hybrid app development**
 
 - 📫 How to reach me **victor@gg-victor.dev**
 
