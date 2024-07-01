@@ -12,7 +12,7 @@
 
 - 💬 Ask me about 👉🏻 **Hybrid app development**
 
-- 📫 How to reach me 👉🏻 **victor@gg-victor.dev**
+- 📫 How to reach me 👉🏻 **contact@gg-victor.dev**
 
 - 🚀 My website 👉🏻 <a href="https://gg-victor.dev" target="blank">https://gg-victor.dev</a>
 
