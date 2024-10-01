@@ -24,7 +24,6 @@
   [![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
   [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
   [![NodeJS](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E)]()
-  [![NestJS](https://img.shields.io/badge/nestjs%20-%23323330.svg?&style=for-the-badge&logo=nestjs&logoColor=red)]()
   [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
   [![Python](https://img.shields.io/badge/-PYTHON-green?&style=for-the-badge&logo=python&logoColor=blue)]()
   [![Bash](https://img.shields.io/badge/-BASH-black?style=for-the-badge&logo=shell&logoColor=white)]()
