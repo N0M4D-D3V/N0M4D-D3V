@@ -6,15 +6,15 @@
 </p>
 
 ## Reach Me
-- 🔭 I’m currently working at 👉🏻 **Airbus DS**
+- 🔭 I’m currently working at 👉🏻 **Codere**
 
-- 🌱 I’m currently learning 👉🏻 **Personal Finances**
+- 🌱 I’m currently learning 👉🏻 **Software Architecture**
 
-- 💬 Ask me about 👉🏻 **Hybrid app development**
+- 💬 Ask me about 👉🏻 **Hybrid Apps Development**
 
 - 📫 How to reach me 👉🏻 **contact@gg-victor.dev**
 
-- 🚀 My website 👉🏻 <a href="https://gg-victor.dev" target="blank">https://gg-victor.dev</a>
+- 🚀 My website 👉🏻 <a href="https://gg-victor.dev" target="blank">gg-victor.dev</a>
 
 ## Tech Stack
 <p align="center">
