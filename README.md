@@ -21,6 +21,7 @@
   
   [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)]()
   [![Ionic](https://img.shields.io/badge/-IONIC-%23316192.svg?&style=for-the-badge&logo=ionic&logoColor=white)]()
+  [![Capacitor](https://img.shields.io/badge/-CAPACITOR-%23316192.svg?&style=for-the-badge&logo=capacitor&logoColor=white)]()
   [![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
   [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
   [![NodeJS](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E)]()
