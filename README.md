@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/-N0M4D-black?&logo=github&logoColor=white)](https://gg-victor.dev)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=7+years+of+exp;Frontend/Hybrid+Developer;From+Madrid,+Spain;Crafting+unique+apps" alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=7+years+of+exp;FullStack/Freelance+Developer;From+Madrid,+Spain;Crafting+unique+apps" alt="typing intro">
 </p>
 
 ## Reach Me
