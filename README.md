@@ -18,7 +18,6 @@ My work usually involves:
 
 I come from real production environments: enterprise systems, retail platforms, critical software, complex integrations and products that must work reliably, not just look good.
 
-I don’t build isolated websites or generic solutions.
 I focus on systems, stability and sustainable growth.
 
 If you think your business needs structure, automation or a stronger technical foundation, the most efficient step is a 20–30 minute call to see if building a system together makes sense.
