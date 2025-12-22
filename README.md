@@ -6,15 +6,22 @@
 </p>
 
 ## Reach Me
-- 🔭 I’m currently working at 👉🏻 **Codere**
+I’m a freelance software developer and systems architect.
 
-- 🌱 I’m currently learning 👉🏻 **Software Architecture**
+I design and build custom systems for companies, startups, traders and creators who already have traction but are starting to hit operational friction, manual processes, fragile software or scalability issues.
 
-- 💬 Ask me about 👉🏻 **Hybrid Apps Development**
+My work usually involves:
 
-- 📫 How to reach me 👉🏻 **contact@gg-victor.dev**
+- Hybrid apps (Angular, Ionic, Capacitor)
+- Process automation and internal tools
+- Robust architectures built for long-term use, not quick fixes
 
-- 🚀 My website 👉🏻 <a href="https://gg-victor.dev" target="blank">gg-victor.dev</a>
+I come from real production environments: enterprise systems, retail platforms, critical software, complex integrations and products that must work reliably, not just look good.
+
+I don’t build isolated websites or generic solutions.
+I focus on systems, stability and sustainable growth.
+
+If you think your business needs structure, automation or a stronger technical foundation, the most efficient step is a 20–30 minute call to see if building a system together makes sense.
 
 ## Tech Stack
 <p align="center">
